@@ -19,3 +19,8 @@ dev/
 # Interne Planungsdokumente und Claude-Setup (lokal, nicht veröffentlicht)
 docs/superpowers/
 .claude/
+
+# 3D Files
+*.FCBak
+*.FCStd1
+*.FCStd2
